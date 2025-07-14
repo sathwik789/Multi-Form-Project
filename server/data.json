@@ -1,0 +1,21 @@
+[
+  {
+    "personal": {
+      "name": "M Sathwik Reddy",
+      "age": "21",
+      "gender": "Male",
+      "dob": "2005-06-10"
+    },
+    "contact": {
+      "email": "reddysathwik019@gmail.com",
+      "phone": "7780188695",
+      "city": "Anantapur",
+      "state": "Andhra Pradesh"
+    },
+    "education": {
+      "degree": "Bachelor of Technology",
+      "college": "Lovely Professional University",
+      "cgpa": "8.3"
+    }
+  }
+]
